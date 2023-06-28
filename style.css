@@ -1,0 +1,513 @@
+.first_block {
+    background-color: #141024;
+    width: 1920px;
+    height: 1080px;
+    margin-bottom: 100px;
+}
+
+
+.header_h1 {
+    position: relative;
+    width: 228px;
+    height: 48px;
+    top: 30px;
+    left: 100px;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    display: inline;
+    color: white;
+    font-family: Jost;
+}
+
+.pp {
+    position: relative;
+    display: inline;
+    width: 324px;
+    height: 32px;
+    top: 20px;
+    left: 598px;
+    margin-right: 40px;
+    color: white;
+    font-family: Jost;
+}
+
+.phoneNumber {
+    position: absolute;
+    top: 30px;
+    right: 100px;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: white;
+    font-family: Jost;
+}
+
+.first_block .h1in {
+    position: absolute;
+    width: 516px;
+    height: 112px;
+    top: 344px;
+    left: 380px;
+    font-size: 70px;
+    font-weight: 600;
+    line-height: 112px;
+    letter-spacing: 0em;
+    text-align: left;
+    white-space: nowrap;
+    color: white;
+    font-family: Jost;
+}
+
+.first_block .pIN {
+    position: absolute;
+    width: 498px;
+    height: 64px;
+    top: 476px;
+    left: 380px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    font-family: Jost;
+}
+
+.first_block button {
+    position: absolute;
+    width: 260px;
+    height: 79px;
+    top: 590px;
+    left: 380px;
+    padding: 25px 54px 25px 54px;
+    border-radius: 5px;
+    gap: 10px;
+    background-color: #D52027;
+    color: #FFFFFF;
+}
+.first_block .woman {
+    position: absolute;
+    width: 516px;
+    height: 917px;
+    top: 163px;
+    left: 1057px;
+}
+
+.first_block .circle {
+    position: absolute;
+    width: 783px;
+    height: 783px;
+    top: 263px;
+    left: 924px;
+    border: 80px;
+}
+
+
+.RoboSchool{
+    width: 891px;
+    height: 144px;
+    top: 1200px;
+    margin-left: 140px;
+    font-family: Jost;
+    font-size: 30px;
+    
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.bolt{
+    font-weight: 600;
+    color: #141024;
+}
+
+
+.numbers {
+    display: flex;
+    justify-content: space-around;
+    align-items: center; /* Добавлено выравнивание по центру */
+    font-family: Jost;
+    font-size: 70px;
+    font-weight: 600;
+    line-height: 112px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #D52027;
+}
+
+li {
+    list-style-type: none;
+}
+
+.str {
+    display: flex;
+    margin-left: 100px;
+    font-family: Jost;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+
+
+.str1{
+    margin-right: 25px;
+    margin-left: 10px;
+}
+.str2{
+    margin-right: 70px;
+}
+.str3{
+    margin-right: 90px;
+}
+
+.second_block{
+    margin-bottom: 100px;
+}
+
+
+.third_block{
+    width: 1920px;
+    height: 485px;
+    background-color: rgb(225, 225, 225);
+    
+}
+
+.third_h1 {
+    display: flex;
+    width: 882px;
+    height: 80px;
+    margin-left: 140px;
+    font-family: Jost;
+    color: #141024;
+    padding-top: 100px;
+    font-family: Jost;
+font-size: 50px;
+font-weight: 600;
+line-height: 80px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.ulli{
+    display: flex;
+    padding-top: 130px;
+    margin-left: 110px;
+    font-family: Jost;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #141024;
+}
+
+.text1{
+    margin-right: 270px;
+    margin-left: 5px;
+}
+.text2{
+    margin-right: 220px;
+}
+.text3{
+    margin-right: 110px;
+    padding-left: 70px;
+}
+
+.ullii{
+    display: flex;
+    margin-left: 110px;
+    padding-left: 40px;
+    font-family: Jost;
+    font-size: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #141024;
+}
+
+.tet1{
+    width: 500px;
+}
+
+.tet2{
+    width: 500px;
+    padding-left: 70px;
+}
+.tet3{
+    width: 550px;
+    padding-left: 60px;
+}
+
+
+
+.forth_block h2{
+    margin-top: 100px;
+    margin-bottom: 60px;
+    margin-left: 140px;
+    font-family: Jost;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.forth_block .imgg{
+    display: flex;
+    margin-left: 140px;
+    width: 360px;
+    height: 500px;
+    top: 2439px;
+    left: 780px;
+    border-radius: 20px;
+}
+
+.forth_block .imgg img {
+    margin-right: 30px; /* Расстояние между картинками */
+}
+.forth_block .imgg img:last-child {
+    margin-right: 0; /* Убираем отступ справа для последней картинки */
+}
+
+.ulul{
+    margin-left: 110px;
+}
+.first{
+    display: flex;
+    font-family: Jost;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    white-space: nowrap
+    
+}
+.second{
+    display: flex;
+    font-family: Jost;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    align-items: center;
+    white-space: nowrap;
+}
+.bo{
+    margin-right: 30px;
+}
+
+.third{
+    display: flex;
+    color: #D52027;
+    font-family: Jost;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: em;
+    text-align: left;
+}
+
+.first li{
+    margin-top: 30px;
+    padding-right: 235px;
+}
+.second li{
+    margin-top: 5px;
+    padding-right: 125px;
+    
+}
+
+.third li{
+    margin-top: 5px;
+    padding-right: 125px;
+}
+
+.first .li li:last-child {
+    margin-right: 0; /* Убираем отступ справа для последней картинки */
+}
+
+.aa{
+    margin-right: 165px;
+}
+.ab{
+    margin-right: 200px;
+}
+
+.ao{
+    margin-right: -3px;
+}
+
+.choose{
+    display: flex;
+}
+
+.propocket1{
+    margin-top: 150px;
+    margin-left: 140px;
+    width: 360px;
+    height: 500px;
+    border-radius: 20px;
+    background-color: #141024;
+    text-align: center;
+}
+
+.robopocket2{
+    margin-top: 150px;
+    margin-left: 140px;
+    width: 360px;
+    height: 500px;
+    border-radius: 20px;
+    background-color: transparent;
+    text-align: center;
+    border: 1px solid #14102433;
+}
+
+.progpocket3 {
+    margin-top: 150px;
+    margin-left: 140px;
+    width: 360px;
+    height: 500px;
+    border-radius: 20px;
+    background-color: transparent;
+    text-align: center;
+    border: 1px solid #14102433;
+}
+
+.pinCH{
+    padding-top: 30px;
+    font-family: Jost;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.ppinCH{
+    padding-top: 60px;
+    font-family: Jost;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.pppinCH{
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 29px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.firstbutton{
+    margin-top: 15px;
+    width: Fixed (280px);
+    height: 79px;
+    padding: 25px 54px 25px 54px;
+    border-radius: 5px;
+    gap: 10px;
+    background-color:#D52027;
+    color: #FFFFFF;
+}
+
+.buttoninCH{
+    margin-top: 40px;
+    width: Fixed (280px);
+    height: 79px;
+    padding: 25px 54px 25px 54px;
+    border-radius: 5px;
+    gap: 10px;
+    background-color:#D52027;
+    color: #FFFFFF;
+}
+
+.pinCH1{
+    padding-top: 30px;
+    font-family: Jost;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0em;
+    color: black;
+    text-align: center;
+}
+
+.ppinCH1{
+    padding-top: 60px;
+    font-family: Jost;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0em;
+    color: black;
+    text-align: center;
+}
+
+.pppinCH1{
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 29px;
+    letter-spacing: 0em;
+    color: black;
+    text-align: center;
+}
+
+.footer{
+    width: 1920px;
+    height: 460px;
+
+    background: #D52027;
+}
+
+.footer > .container > h3{
+    padding-top: 100px;
+    padding-left: 200px;
+    font-family: Jost;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.form-block {
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    width: 100px;
+    height: 286px;
+    border-radius: 5px;
+
+}
+
+.form-block input {
+    display: block;
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.submit-button {
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: black;
+    color: #FFFFFF;
+    border: none;
+}
